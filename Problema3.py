@@ -35,3 +35,4 @@ for inicio, fin, nombre in actividades:
 print("**Agenda ideal***")
 for actividad in agenda:
     print(actividad[0]," - ", actividad[1], "-", actividad[2])
+    
